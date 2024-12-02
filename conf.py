@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'sigma'
-copyright = '2024, hawk tuah'
-author = 'hawk tuah'
+project = 'sphinx'
+copyright = '2024, Wiktor Glogowski'
+author = 'Wiktor Glogowski'
 release = '0.1'
 
 # -- General configuration ---------------------------------------------------
